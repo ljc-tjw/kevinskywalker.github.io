@@ -201,7 +201,6 @@ o(≧v≦)o ┴┴~(≧▽≦)/~┴┴ ≧□≦○
 (￣▽￣)~* (￣▽￣)" ╮(╯▽╰)╭ ╮(￣▽￣)╭ 
 
 =￣ω￣= (￣３￣)a ￣▽￣ ╮(╯3╰)╭ 
-
 ╮(╯3╰)╭ ╮(╯_╰)╭ (= 0 =)y o()︿﹀﹀o 
 
 (￣.￣) (￣< ￣)> (～o￣▽￣)～o ~。。。(~￣▽￣)~[] 
@@ -223,7 +222,7 @@ o(≧v≦)o ┴┴~(≧▽≦)/~┴┴ ≧□≦○
 
 o(#￣▽￣)==O))￣▽￣")o 
 
-o(#￣▽￣)==O))￣0￣")o 
+wo(#￣▽￣)==O))￣0￣")o 
 
 (￣ε(#￣)☆╰╮o(￣▽￣///) 
 
@@ -254,13 +253,19 @@ o(°▽、°o)....+((￣﹏￣m )~
 (；°○° ) ( > c < ) 
 
 # [](#header-1)Love You ,Baby~
-### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+### 我们都会一直陪着你哟~
 
-### Large image
+![](https://pic4.zhimg.com/v2-80c87483344617cfb0ff27db63bbb4ab_400x224.jpg)
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+
+### 
+
+![](https://pic2.zhimg.com/v2-a6519ebd021cbd532a8bdf460be4444d_400x224.jpg)
+
+### 
+
+![](https://pic1.zhimg.com/127e90a83c471bad2d595214474b6890_xl.jpg)
 
 
 
