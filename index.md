@@ -1,8 +1,8 @@
----
+--
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+cute Guoba's Website
 
 [Link to another page](another-page).
 
