@@ -9,19 +9,15 @@ cute Guoba's Website
 
 # [](#header-1)To the very best time of ours
 
-(｡・`ω´･)颜文字
- xxx 2012-02-21 20:10:10 
-
 
 
 
  
-_(┐「ε:)_    _(:3 」∠)_    (￣y▽￣)~*捂嘴偷笑 ・゜・(PД`q｡)・゜・
+_(┐「ε:)_    _(:3 」∠)_    (￣y▽￣)~* ・゜・(PД`q｡)・゜・
 
 (ง •̀_•́)ง   (•̀ᴗ•́)و   ヽ(•̀ω•́ )ゝ  (,,• ₃ •,,)   (｡˘•ε•˘｡)   (=ﾟωﾟ)ﾉ
 
 (○’ω’○)   (´・ω・`)   ヽ(･ω･｡)ﾉ   (。-`ω´-)   (´・ω・`)  (´・ω・)ﾉ
-
 (ﾉ･ω･)ﾉﾞ  (♥ó㉨ò)ﾉ♡    (ó㉨ò)    ・㉨・  ( ・◇・)？  ヽ(*´Д｀*)ﾉ
 
 (´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)    (╭￣3￣)╭♡    (☆ﾟ∀ﾟ)    ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄.    (´-ι_-｀)
@@ -34,7 +30,7 @@ _(┐「ε:)_    _(:3 」∠)_    (￣y▽￣)~*捂嘴偷笑 ・゜・(PД`q｡)
 
  ✪ε✪  ✪υ✪  ✪ω✪   눈_눈   ,,Ծ‸Ծ,,     π__π     （/TДT)/         
 
-ʅ（´◔౪◔）ʃ     (｡☉౪ ⊙｡)   o(*≧▽≦)ツ┏━┓拍桌狂笑
+ʅ（´◔౪◔）ʃ     (｡☉౪ ⊙｡)   o(*≧▽≦)ツ┏━┓
 
 (●'◡'●)ﾉ♥     <(▰˘◡˘▰)>    ｡◕‿◕｡     (｡・`ω´･)    (♥◠‿◠)ﾉ  ʅ(‾◡◝) 
 
@@ -255,83 +251,6 @@ o(°▽、°o)....+((￣﹏￣m )~
 (*^︹^*) 　( /。 ) 　　( ' – ' ) ( ^３^ )╱~~　 
 (；°○° ) ( > c < ) 
 
-## [](#header-2)
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -342,23 +261,6 @@ end
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
