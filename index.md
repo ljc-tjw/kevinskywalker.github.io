@@ -3,7 +3,7 @@
 layout: default
 ---
 
-cute Guoba's Website
+送给唐静文的一个小礼物~
 
 
 
@@ -252,20 +252,20 @@ o(°▽、°o)....+((￣﹏￣m )~
 (*^︹^*) 　( /。 ) 　　( ' – ' ) ( ^３^ )╱~~　 
 (；°○° ) ( > c < ) 
 
-# [](#header-1)Love You ,Baby~
+# [](#header-1) عيد ميلاد سعيد 
 
-### 我们都会一直陪着你哟~
+### 我知道世界很大很精彩，但是我只想和一个人一起出发去探险。
 
-![](https://pic4.zhimg.com/v2-80c87483344617cfb0ff27db63bbb4ab_400x224.jpg)
+![]
 
-
-### 
-
-![](https://pic2.zhimg.com/v2-a6519ebd021cbd532a8bdf460be4444d_400x224.jpg)
 
 ### 
 
-![](https://pic1.zhimg.com/127e90a83c471bad2d595214474b6890_xl.jpg)
+![]
+
+### 
+
+![]()
 
 
 
